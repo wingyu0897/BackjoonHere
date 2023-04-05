@@ -1,2 +1,2 @@
 # $Baekjoon$ $Here$
-ad
+ads
