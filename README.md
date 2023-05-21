@@ -1,2 +1,2 @@
 # $Baekjoon$ $Here$
-c++ o7
+c++
